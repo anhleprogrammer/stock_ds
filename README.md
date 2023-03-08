@@ -1,1 +1,1 @@
-# stock_ds
+Develop an ETL (Extract, Transform, Load) pipeline using Airflow that retrieves stock data from Yahoo Finance API and stores it as staging data in S3 and finally load the data into Redshift for further analysis
